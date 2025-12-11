@@ -1,17 +1,36 @@
-<h1 align="center">Hi 👋, I'm Harshal Sonawane</h1>
-<h3 align="center">⚡ Full Stack Developer from India ⚡</h3>
+<div align="center">
+  <img height="380" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E8F0&center=true&vCenter=true&width=600&lines=MERN+Developer;Next.js+%7C+Spring+Boot;Building+Scalable+Apps+%F0%9F%9A%80;Love+Clean+Architecture+%26+Modern+UI" />
-</p>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> , I'm Harshal Sonawane
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsh3681&label=Profile+Views&color=blueviolet&style=flat" />
+<div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width=45/>  
+A Passionate Full-Stack Developer from India  
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width=45/>
+
+</div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=harsh3681&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🎮 Breakout – GitHub Contribution Game
+### 👨‍💻 About Me
+
+- I'm **Harshal Sonawane**, a Full-Stack Developer passionate about scalable systems  
+- Currently exploring **DevOps + System Design**  
+- Love **React, Next.js, Spring Boot & Backend architecture**  
+- Apart from coding, I enjoy gaming, music, and learning new tech!
+
+---
+
+# 🎮 Breakout — GitHub Contribution Game  
+*(You already had this — keeping it intact)*
 
 <p align="center">
   <picture>
@@ -23,67 +42,48 @@
 
 ---
 
-## 🔗 Connect with Me
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/harshal-sonawane6026/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
-<a href="https://leetcode.com/u/harshal3681/">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="40" />
-</a>
-<a href="https://www.hackerrank.com/profile/harshal_sonawan1">
-  <img src="https://skillicons.dev/icons?i=hackerrank" width="40" />
-</a>
-<a href="https://www.codechef.com/users/harshal_3681">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="38" />
-</a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
-</p>
-
-### 🧩 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,mysql,postgres" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux" />
-</p>
-
-### 🔧 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,webpack" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/harshal-sonawane6026/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://leetcode.com/u/harshal3681/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/harshal_sonawan1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.codechef.com/users/harshal_3681" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codechef&logo=codechef&label=&color=5B4638&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh3681&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh3681&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,java,spring,mongodb,mysql,postgres,git,github,postman,vscode,docker,kubernetes,aws" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 📊 GitHub Stats (Simple Like Your Friend)
 
-- 🔭 Currently working on **Full-stack apps & real-world projects**
-- 🌱 Learning **DevOps, System Design, Microservices**
-- 💡 Passionate about **clean UI + scalable backend**
-- 💬 Ask me about **Next.js, JavaScript, Spring Boot, MongoDB**
+<img src="https://github-readme-stats.vercel.app/api?username=harsh3681&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="200" alt="stats graph" />  
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh3681&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />  
+<br/>
+<img src="https://streak-stats.demolab.com?user=harsh3681&theme=tokyonight&hide_border=true" height="200" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh3681&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh3681&theme=tokyonight">
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, feel free to star my repositories!
+  ⭐ If you like my work, feel free to star my repositories ⭐
 </p>
