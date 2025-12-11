@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="380" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" />
+  <img height="380" src="https://raw.githubusercontent.com/Harsh3681/Harsh3681/main/images/banner.png" />
 </div>
 
 <h1 align="center">
@@ -30,7 +30,6 @@ A Passionate Full-Stack Developer from India
 ---
 
 # 🎮 Breakout — GitHub Contribution Game  
-*(You already had this — keeping it intact)*
 
 <p align="center">
   <picture>
