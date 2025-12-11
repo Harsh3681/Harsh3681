@@ -68,9 +68,7 @@ A Passionate Full-Stack Developer from India
 
 ---
 
-## 📊 GitHub Stats (Simple Like Your Friend)
-
-## 📊 GitHub Stats (Simple Like Your Friend)
+## 📊 GitHub Stats 
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harsh3681&show_icons=true&theme=tokyonight&hide_border=true" height="200" />
 
