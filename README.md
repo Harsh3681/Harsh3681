@@ -70,16 +70,22 @@ A Passionate Full-Stack Developer from India
 
 ## 📊 GitHub Stats (Simple Like Your Friend)
 
-<img src="https://github-readme-stats.vercel.app/api?username=harsh3681&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="200" alt="stats graph" />  
+## 📊 GitHub Stats (Simple Like Your Friend)
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harsh3681&show_icons=true&theme=tokyonight&hide_border=true" height="200" />
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh3681&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />  
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harsh3681&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+
 <br/>
+
 <img src="https://streak-stats.demolab.com?user=harsh3681&theme=tokyonight&hide_border=true" height="200" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh3681&theme=tokyonight">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh3681&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh3681&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh3681&theme=tokyonight" />
 
 ---
 
