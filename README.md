@@ -29,7 +29,7 @@ A Passionate Full-Stack Developer from India
 
 ---
 
-# 🎮 Breakout — GitHub Contribution Game  
+# 🎮 Breakout — GitHub Contribution  
 
 <p align="center">
   <picture>
