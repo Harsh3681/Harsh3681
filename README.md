@@ -33,9 +33,9 @@ A Passionate Full-Stack Developer from India
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
-    <img alt="Breakout Game" src="images/breakout-light.svg" width="900" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh3681/Harsh3681/main/images/breakout-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh3681/Harsh3681/main/images/breakout-light.svg?v=1" />
+    <img alt="Breakout Game" src="https://raw.githubusercontent.com/Harsh3681/Harsh3681/main/images/breakout-light.svg?v=1" width="100%" loading="lazy" />
   </picture>
 </p>
 
