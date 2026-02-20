@@ -32,14 +32,12 @@ jobs:
           mv output/light.svg images/breakout-light.svg
           mv output/dark.svg images/breakout-dark.svg
 
-      - name: Commit and push SVGs
-        run: |
+       - name: Commit and push SVGs
+         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git pull origin main --rebase
 
           git add images/breakout-light.svg images/breakout-dark.svg
           git commit -m "chore: update breakout SVGs" || echo "No changes"
 
-          git push origin main
+          git push origin main --force-with-lease
