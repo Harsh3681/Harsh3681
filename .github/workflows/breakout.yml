@@ -23,6 +23,7 @@ jobs:
         uses: cyprieng/github-breakout@v1
         with:
           github_username: Harsh3681
+          github_token: ${{ secrets.BREAKOUT_TOKEN }}
 
       - name: Move generated SVGs
         run: |
