@@ -36,5 +36,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add images/breakout-light.svg images/breakout-dark.svg
-          git commit -m "chore: update breakout SVGs" || echo "No changes"
-          git push origin main --force-with-lease
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "chore: update breakout SVGs"
+          git push origin main
